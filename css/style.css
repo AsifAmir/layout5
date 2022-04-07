@@ -1,0 +1,55 @@
+.logo{
+	height: 140px;
+	background-color: yellow;
+}
+.header{
+	height: 140px;
+	background-color: seagreen;
+}
+.wrapper{
+	overflow: hidden;
+}
+.single{
+	height: 120px;
+	width: 25%;
+	float: left;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.midnightblue{
+	background-color: midnightblue;
+}
+.container{
+	overflow: hidden;
+}
+.skyblue{
+	height: 300px;
+	width: 50%;
+	float: left;
+	background-color: skyblue;
+}
+.teal{
+	height: 150px;
+	width: 50%;
+	float: right;
+	background-color: teal;
+}
+.darkred{
+	height: 150px;
+	width: 50%;
+	background-color: darkred;
+	float: right;
+}
+
+.footer{
+	height: 150px;
+	background-color: silver;
+	/*clear: both;*/
+}
